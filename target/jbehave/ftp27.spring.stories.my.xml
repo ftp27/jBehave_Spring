@@ -1,0 +1,13 @@
+<story path="ftp27/spring/stories/my.story" title="">
+<scenario keyword="Scenario:" title="A scenario with additional integers">
+<step outcome="successful">Given calculator object</step>
+<step outcome="successful">And set <parameter>additional</parameter> action for calculator</step>
+<step outcome="successful">When a equal <parameter>3</parameter> and b equal <parameter>4</parameter></step>
+<step outcome="successful">Then result is <parameter>7</parameter></step>
+</scenario>
+<scenario keyword="Scenario:" title="A scenario with substruction integers">
+<step outcome="successful">Given set <parameter>subctruction</parameter> action for calculator</step>
+<step outcome="successful">When a equal <parameter>4</parameter> and b equal <parameter>2</parameter></step>
+<step outcome="successful">Then result is <parameter>2</parameter></step>
+</scenario>
+</story>
