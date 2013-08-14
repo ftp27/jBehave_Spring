@@ -23,6 +23,9 @@ import org.jbehave.core.steps.ParameterConverters;
 import org.jbehave.core.steps.ParameterConverters.DateConverter;
 import org.jbehave.core.steps.ParameterConverters.ExamplesTableConverter;
 import ftp27.spring.steps.MySteps;
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.core.io.ClassPathResource;
 
 import static org.jbehave.core.io.CodeLocations.codeLocationFromClass;
 import static org.jbehave.core.reporters.Format.CONSOLE;
@@ -41,8 +44,10 @@ import static org.jbehave.core.reporters.Format.XML;
 public class MyStories extends JUnitStories {
     
     public MyStories() {
-        configuredEmbedder().embedderControls().doGenerateViewAfterStories(true).doIgnoreFailureInStories(true)
-                .doIgnoreFailureInView(true).useThreads(2).useStoryTimeoutInSecs(60);
+        BeanFactory factory = new XmlBeanFactory(new ClassPathResource("spring/story.xml"));
+       // BeanFactory bf = new XmlBeanFactory(cpr);
+       /* configuredEmbedder().embedderControls().doGenerateViewAfterStories(true).doIgnoreFailureInStories(true)
+                .doIgnoreFailureInView(true).useThreads(2).useStoryTimeoutInSecs(60);*/
     }
 
     @Override
@@ -61,7 +66,7 @@ public class MyStories extends JUnitStories {
             .useStoryReporterBuilder(new StoryReporterBuilder()
                 .withCodeLocation(CodeLocations.codeLocationFromClass(embeddableClass))
                 .withDefaultFormats()
-                .withFormats(CONSOLE, TXT, HTML, XML))
+                .withFormats(CONSOLE, HTML))
             .useParameterConverters(parameterConverters);
     }
 

@@ -25,6 +25,9 @@
         <module name="jBehave_Spring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jBehave_Spring" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
