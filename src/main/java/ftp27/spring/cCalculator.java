@@ -1,10 +1,14 @@
 package ftp27.spring;
 
+
+import org.springframework.stereotype.Service;
+
+@Service
 public class cCalculator implements iCalculator{
     private final String ADDITION = "additional", SUBSTRUCT = "subctruction";
 
     private iAction action;
-    private Integer a,b;
+    private Integer a, b;
 
     public void setAction(String action) {
         if (action.equals(ADDITION)) {

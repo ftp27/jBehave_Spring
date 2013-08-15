@@ -12,7 +12,7 @@ public class MySteps {
 
 @Given("calculator object")
 public void setCalculator() {
-    Calculator = new cCalculator();
+    //Calculator = new cCalculator(0,0);
 }
 
 @Given("set $act action for calculator")

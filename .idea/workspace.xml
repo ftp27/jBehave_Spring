@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d2896f-74e3-4ad7-a121-1ea0950dfef3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Spring/story.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/SpringStories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/actions.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/calculator.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Spring/story.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java" afterPath="$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jBehave_Spring.iml" afterPath="$PROJECT_DIR$/jBehave_Spring.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jBehave_Spring.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376485862242" ignored="false" />
+    <file path="/Dummy.txt" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376561653353" ignored="false" />
     <file path="/Calculator.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376481321864" ignored="false" />
     <file path="/Actions.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376481647940" ignored="false" />
     <file path="/Action.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376481603125" ignored="false" />
@@ -22,13 +28,17 @@
     <file path="/a.html" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376483047519" ignored="false" />
     <file path="/a.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376483048508" ignored="false" />
     <file path="/a.xml" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376483049717" ignored="false" />
-    <file path="/cCalculator.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376484281708" ignored="false" />
+    <file path="/cCalculator.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376558110903" ignored="false" />
     <file path="/iCalculator.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376483752502" ignored="false" />
     <file path="/iAction.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376483683137" ignored="false" />
     <file path="/my.story" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376484592278" ignored="false" />
     <file path="/MySteps.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376484524436" ignored="false" />
     <file path="/story.xml" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376485537858" ignored="false" />
-    <file path="/MyStories.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376486084119" ignored="false" />
+    <file path="/MyStories.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376553702782" ignored="false" />
+    <file path="/steps.xml" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376553225673" ignored="false" />
+    <file path="/SpringStories.java" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376562643335" ignored="false" />
+    <file path="/actions.xml" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376555712443" ignored="false" />
+    <file path="/calculator.xml" changelist="33d2896f-74e3-4ad7-a121-1ea0950dfef3" time="1376564500692" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,39 +155,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyStories.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java">
+      <file leaf-file-name="calculator.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/calculator.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="7" selection-start="1950" selection-end="1994" vertical-scroll-proportion="0.8661845">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cCalculator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="33" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+            <state line="10" column="55" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cSubtraction.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java">
+      <file leaf-file-name="SpringStories.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/SpringStories.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="37" selection-end="49" vertical-scroll-proportion="0.0">
+            <state line="28" column="6" selection-start="994" selection-end="994" vertical-scroll-proportion="0.80862534">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="story.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Spring/story.xml">
+      <file leaf-file-name="cAddition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="44" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+            <state line="5" column="43" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/actions.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="20" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -186,7 +194,25 @@
       <file leaf-file-name="iAction.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="29" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+            <state line="2" column="17" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cCalculator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="4" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iCalculator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="31" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -210,22 +236,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/cAdditional.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/cAddition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/cSubtraction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/iCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/cCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/iAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/iCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ftp27/spring/stories/my.story" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/Spring/story.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Spring/steps.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/actions.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/iCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/calculator.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ftp27/spring/SpringStories.java" />
       </list>
     </option>
   </component>
@@ -236,10 +262,56 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="JBehave Stories" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="JBehave Stories" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jbehave" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="JBehave Stories" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
+    <option name="x" value="16" />
     <option name="y" value="25" />
-    <option name="width" value="1284" />
+    <option name="width" value="1264" />
     <option name="height" value="1001" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -284,7 +356,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -301,6 +372,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jBehave_Spring" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jBehave_Spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jBehave_Spring" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,32 +445,6 @@
               <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Spring" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jBehave_Spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jBehave_Spring" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
@@ -405,40 +472,39 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="steps" />
               <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ftp27.spring" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyStories">
+  <component name="RunManager" selected="JUnit.SpringStories">
     <configuration default="false" name="MyStories" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="jBehave_Spring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -467,10 +533,54 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="SpringStories" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="jBehave_Spring" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ftp27.spring" />
+      <option name="MAIN_CLASS_NAME" value="ftp27.spring.SpringStories" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -481,17 +591,20 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -521,20 +634,17 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="XSLT" factoryName="XSLT">
-      <option name="myOutputFile" />
-      <option name="myOpenOutputFile" value="false" />
-      <option name="myOpenInBrowser" value="false" />
-      <option name="mySmartErrorHandling" value="true" />
-      <option name="myRunnerPort" value="34873" />
-      <option name="myVmArguments" />
-      <option name="myWorkingDirectory" />
-      <option name="myModule" />
-      <option name="myJdk" />
-      <parameters />
-      <OutputType value="CONSOLE" save-to-file="false" />
-      <FileType name="XML" />
-      <JdkChoice value="FROM_MODULE" />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -571,12 +681,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.MyStories" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SpringStories" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MyStories" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SpringStories" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyStories" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -610,32 +722,52 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="25" width="1284" height="1001" extended-state="6" />
-    <editor active="true" />
+    <frame x="16" y="25" width="1264" height="1001" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827103" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="ConsoleMavenPlugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.7021028" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.69158876" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3084112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.184514" sideWeight="0.46378505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.53621495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -717,38 +849,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="191" selection-end="191" vertical-scroll-proportion="0.2189781">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="22" selection-start="2579" selection-end="2579" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="15" selection-start="4684" selection-end="4684" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="31" selection-start="1776" selection-end="1776" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/ClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="41" selection-start="5585" selection-end="5585" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jbehave/jbehave-core/3.8/jbehave-core-3.8.jar!/org/jbehave/core/steps/StepCreator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="49" selection-start="11121" selection-end="11121" vertical-scroll-proportion="-5.72" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/jbehave/jbehave-core/3.8/jbehave-core-3.8.jar!/org/jbehave/core/embedder/StoryManager.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -759,61 +859,88 @@
         <state line="36" column="17" selection-start="3208" selection-end="3208" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iAction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ftp27/spring/stories/my.story">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="29" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+        <state line="4" column="18" selection-start="90" selection-end="90" vertical-scroll-proportion="0.10600707" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.1.1.RELEASE/spring-test-3.1.1.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="3838" selection-end="3838" vertical-scroll-proportion="0.87895715" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.1.1.RELEASE/spring-test-3.1.1.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="393" selection-end="393" vertical-scroll-proportion="0.2616279" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="359" selection-end="359" vertical-scroll-proportion="0.2556818">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="16" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0">
+        <state line="103" column="13" selection-start="3417" selection-end="3417" vertical-scroll-proportion="0.19886364">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ftp27/spring/stories/my.story">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="90" selection-end="90" vertical-scroll-proportion="0.10600707">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/steps/MySteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="0.3975265">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="33" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+        <state line="2" column="31" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cSubtraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="37" selection-end="49" vertical-scroll-proportion="0.0">
+        <state line="7" column="10" selection-start="155" selection-end="155" vertical-scroll-proportion="0.28301886">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spring/story.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/iAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="44" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+        <state line="2" column="17" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/MyStories.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/actions.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="7" selection-start="1950" selection-end="1994" vertical-scroll-proportion="0.8661845">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="7" column="20" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="43" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/cCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="4" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/calculator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="55" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ftp27/spring/SpringStories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="6" selection-start="994" selection-end="994" vertical-scroll-proportion="0.80862534">
+          <folding />
         </state>
       </provider>
     </entry>
