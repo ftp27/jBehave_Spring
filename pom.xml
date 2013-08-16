@@ -8,8 +8,8 @@
   <name>JBehave Stories</name>
 
   <properties>
-    <jbehave.core.version>3.8</jbehave.core.version>
-    <jbehave.site.version>3.1.1</jbehave.site.version>
+      <jbehave.core.version>3.8-SNAPSHOT</jbehave.core.version>
+      <jbehave.site.version>3.1.1</jbehave.site.version>
     <embeddables>**/*Stories.java</embeddables>
   </properties>
 
@@ -71,6 +71,21 @@
           <groupId>org.springframework</groupId>
           <artifactId>spring-context</artifactId>
           <version>3.1.1.RELEASE</version>
+      </dependency>
+      <dependency>
+          <groupId>org.jbehave</groupId>
+          <artifactId>jbehave-spring</artifactId>
+          <version>3.9-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+          <groupId>org.jbehave</groupId>
+          <artifactId>jbehave-spring</artifactId>
+          <version>3.9-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+          <groupId>org.jbehave</groupId>
+          <artifactId>jbehave-spring</artifactId>
+          <version>3.9-SNAPSHOT</version>
       </dependency>
   </dependencies>
 
