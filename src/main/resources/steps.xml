@@ -9,9 +9,6 @@
 
 
 
-    <bean class="ftp27.spring.steps.MySteps" />
-
    <context:component-scan base-package="ftp27.spring.steps" />
-     <!-- <bean class="ftp27.spring.steps.MySteps"/> -->
 
  </beans>
