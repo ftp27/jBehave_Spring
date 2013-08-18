@@ -23,11 +23,11 @@ import static org.jbehave.core.io.CodeLocations.codeLocationFromClass;
 @UsingEmbedder(embedder = Embedder.class, generateViewAfterStories = true, ignoreFailureInStories = true, ignoreFailureInView = true)
 @UsingSpring(resources = {"/configuration.xml"})
 @UsingSteps
-public class SpringStories extends InjectableEmbedder {
-
+public class SpringStories extends InjectableEmbedder {          //
 
     @Test
     public void run() {
+        injectedEmbedder().useStepsFactory(stepsFactory());
         injectedEmbedder().useCandidateSteps(stepsFactory().createCandidateSteps());
         injectedEmbedder().runStoriesAsPaths(storyPaths());
 
