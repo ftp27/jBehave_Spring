@@ -1,3 +1,0 @@
-<beans>
-    <beans class="ftp27.spring.steps.MySteps" />
-</beans>
