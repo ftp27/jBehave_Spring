@@ -39,7 +39,7 @@ public class CoreEmbedder extends Embedder {
                 .useParameterConverters(new ParameterConverters()
                         .addConverters(new ParameterConverters.DateConverter(new SimpleDateFormat("yyyy-MM-dd")))) // use custom date pattern
                 .useStepPatternParser(new RegexPrefixCapturingPatternParser(
-                        "%")) // use '%' instead of '$' to identify parameters
+                        "$")) // use '%' instead of '$' to identify parameters
                 .useStepMonitor(new SilentStepMonitor());
     }
 }

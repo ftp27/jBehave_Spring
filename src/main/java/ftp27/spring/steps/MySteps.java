@@ -17,7 +17,7 @@ public class MySteps {
         Calculator = new cCalculator();
     }
 
-    @Given("set $act action for calculator")
+    @Given("set '$act' action for calculator")
     public void setAction(String act) {
         Calculator.setAction(act);
     }

@@ -9,6 +9,10 @@
 
 
 
-   <context:component-scan base-package="ftp27.spring.steps" />
+
+   <context:component-scan base-package="ftp27.spring" />
+    <!--<context:component-scan base-package="ftp27.spring.steps" />-->
+   <context:annotation-config/>
+
 
  </beans>
